@@ -1,0 +1,33 @@
+# Python / project
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / notebooks / logs / artifacts
+.vscode/
+.ipynb_checkpoints/
+logs/
+*.log
+
+# Models / pickles / large data
+model.h5
+*.h5
+*.pkl
+*.joblib
+*.npy
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
